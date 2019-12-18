@@ -1,5 +1,5 @@
 # Predicting Housing Sale Prices in King County, WA  
-Contained herein is an exploration of housing sale prices in King County, as well as an attempt to model them. This method yeilds an r-score of 0.9.
+Contained herein is an exploration of housing sale prices in King County, as well as an attempt to model them. This method yeilds an r squared of 90%.
 
 
 ## Description of files  
